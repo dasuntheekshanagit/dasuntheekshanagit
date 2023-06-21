@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- ✨ I am Dasun Theekshan. 
+- 🌱 I’m currently learning at the Computer Engineering Department at the University of Peradeniya.
 <!--
 **dasuntheekshanagit/dasuntheekshanagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
