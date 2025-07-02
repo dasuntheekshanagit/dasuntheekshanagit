@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 <h3 align="center">Full Stack Developer from Sri Lanka</h3>
 <h3 align="center">👯 I’m looking to collaborate on inovative open source projects.</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dasuntheekshanagit&label=Profile%20views&color=0e75b6&style=flat" alt="dasuntheekshanagit" /> </p>
-
 ![Header](header.gif)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dasuntheekshanagit&label=Profile%20views&color=0e75b6&style=flat" alt="dasuntheekshanagit" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <img src="simplex.png" width="100" height="100" alt="Simplex QR">
+  <a href="[https://linkedin.com/in/dasuntheekshana](https://simplex.chat/invitation#/?v=2-7&smp=smp%3A%2F%2Fh--vW7ZSkXPeOUpfxlFGgauQmXNFOzGoizak7Ult7cw%3D%40smp15.simplex.im%2F5umMu_18qh2WBM4k1sDmwSpo4z16XGFw%23%2F%3Fv%3D1-4%26dh%3DMCowBQYDK2VuAyEAewjnZRazENw8X02Zvc5mnXdlZPhHEdvy7A45XqAcVxw%253D%26q%3Dm%26k%3Ds%26srv%3Doauu4bgijybyhczbnxtlggo6hiubahmeutaqineuyy23aojpih3dajad.onion&e2e=v%3D2-3%26x3dh%3DMEIwBQYDK2VvAzkAahGG9f0PjIuVCuBgqYFlCSrtlqh71WqpAYCk2OfopnVrS7jLmVoFeDyC2Uz2t9iCPEzJjp4rCho%3D%2CMEIwBQYDK2VvAzkAKWrNXBjqQReDzgCQ1gKVpJz0jNeSmHDGS-r9RCLVQgA20ArkUeFCbCRw9bCHBirHMc5ErDp7UKY%3D)" target="blank"><img src="simplex.png" width="100" height="100" alt="Simplex QR"></a>
 </p>
 <p align="center">
 <a href="https://linkedin.com/in/dasuntheekshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dasuntheekshana" height="30" width="40" /></a>
