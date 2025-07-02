@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Dasun Theekshana</h1>
+<!-- <h1 align="center">Hi 👋, I'm Dasun Theekshana</h1> 
 <h3 align="center">Full Stack Developer from Sri Lanka</h3>
-<h3 align="center">👯 I’m looking to collaborate on inovative open source projects.</h3>
+<h3 align="center">👯 I’m looking to collaborate on inovative open source projects.</h3> -->
+
+![Header](header.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasuntheekshanagit&label=Profile%20views&color=0e75b6&style=flat" alt="dasuntheekshanagit" /> </p>
 
