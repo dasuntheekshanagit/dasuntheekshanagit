@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
+  <img src="simplex.png" width="100" height="100" alt="Simplex QR">
+</p>
+<p align="center">
 <a href="https://linkedin.com/in/dasuntheekshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dasuntheekshana" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mrdfox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mrdfox" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mrdfox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrdfox" height="30" width="40" /></a>
